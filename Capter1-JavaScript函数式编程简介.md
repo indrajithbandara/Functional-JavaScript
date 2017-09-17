@@ -54,6 +54,8 @@ existy(0) // true
 existy(false) // true
 ```
 
+关于 `null >= 0` 的讨论请参考 [Franky](http://www.cnblogs.com/_franky/) 大大的 [从 null >= 0 说起](http://www.cnblogs.com/_franky/archive/2012/09/26/2703723.html)
+
 - `truthy` 函数，用于 `真` 值判断，主要为 `false`、 `null`、`undefined`三个值， 如果希望数字 `0` 也为 `假` 值，请不要用这个方法
 
 ```javascript
@@ -77,3 +79,9 @@ truthy(null) // false
 - 确定抽象，并为其构建函数
 - 利用已有的函数来构建更为复杂的抽象
 - 通过将现有的函数传给其他的函数来构建更加复杂的抽象
+
+
+## 相关文档
+
+- [microjs.com github](https://github.com/microjs/microjs.com)
+- [microjs.com](http://microjs.com/)
