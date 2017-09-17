@@ -84,4 +84,4 @@ truthy(null) // false
 ## 相关文档
 
 - [microjs.com github](https://github.com/microjs/microjs.com)
-- [microjs.com](http://microjs.com/)
+- [microjs.com](http://microjs.com/) 一些有趣的javascript库
